@@ -1,0 +1,16 @@
+PODS:
+  - UIHelper (0.1.0)
+
+DEPENDENCIES:
+  - UIHelper (from `../`)
+
+EXTERNAL SOURCES:
+  UIHelper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIHelper: c13101e59231984e90f5793424e446e5523a960f
+
+PODFILE CHECKSUM: 6e72fcce5a7ac72d753f4b5bfb230038b1aa8aa0
+
+COCOAPODS: 1.2.1

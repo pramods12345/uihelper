@@ -1,0 +1,22 @@
+{
+  "name": "UIHelper",
+  "version": "0.1.0",
+  "summary": "One-point contact for all the UI components",
+  "description": "We library for the UI-Helpers. UI-related components developed in YML will be listed here.",
+  "homepage": "https://bitbucket.org/ymedialabs/uihelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pavan": "pavan.itagi@ymedialabs.com"
+  },
+  "source": {
+    "git": "https://bitbucket.org/ymedialabs/UIHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIHelper/Classes/**/*"
+}
